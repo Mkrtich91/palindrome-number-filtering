@@ -1,8 +1,8 @@
 # Palindrome Number Filtering: Sequential and Parallel Approaches
 
-Beginner level task for practicing programming skills to develop an efficient solution for identifying palindrome numbers using both sequential and parallel filtering techniques.
+Beginner level task for practicing concurrently programming.
 
-Estimated time to complete the task - 1 h.
+Estimated time to complete the task - 1h.
 
 The task requires .NET 6 SDK installed.
 
