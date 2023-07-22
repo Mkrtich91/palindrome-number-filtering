@@ -20,3 +20,5 @@ The `Selector` class contains several private helper methods:
 - `IsPalindrome(int number)`: This private method checks whether the given integer is a palindrome number. It first verifies that the number is non-negative and then uses the `IsPositiveNumberPalindrome(int number, int divider)` method to perform a recursive check on positive numbers.
 - `IsPositiveNumberPalindrome(int number, int divider)`: This private method recursively checks whether a positive number is a palindrome. It compares the first digit with the last digit and proceeds with the check by removing these digits from the number until the number becomes less than 10.
 - `GetLength(int number)`: This private method calculates the number of digits in the given integer. It uses a switch statement to handle different ranges of numbers efficiently.
+
+To get insights into the benefits of parallel processing when dealing with computationally intensive tasks like filtering palindrome numbers from a large collection of integers compare the efficiency of the two approaches in terms of performance. 
