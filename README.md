@@ -1,6 +1,6 @@
 # Palindrome Number Filtering: Sequential and Parallel Approaches
 
-Beginner level task for practicing concurrently programming.
+Beginner level task for practicing features of the Task Parallel Library.
 
 Estimated time to complete the task - 1h.
 
