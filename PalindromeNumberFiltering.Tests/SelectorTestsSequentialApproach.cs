@@ -13,10 +13,7 @@ public class SelectorTestsSequentialApproach
     [TestCase(new[] { 111, 111, 111, 11111111 }, ExpectedResult = new[] { 111, 111, 111, 11111111 })]
     [TestCase(new[] { -1, 0, 111, -11, -1 }, ExpectedResult = new[] { 0, 111 })]
     [TestCase(new[] { 0, 1, 2, 3, 4 }, ExpectedResult = new[] { 0, 1, 2, 3, 4 })]
-    public IList<int> GetPalindromeInSequence_ReturnNewArray(IList<int> array)
-    {
-        return GetPalindromeInSequence(array);
-    }
+    public IList<int> GetPalindromeInSequence_ReturnNewArray(IList<int> array) => GetPalindromeInSequence(array);
 
     [Test]
     public void GetPalindromeInSequence_ArrayIsNull_ThrowArgumentNullException()
