@@ -209,7 +209,7 @@ dotnet_diagnostic.IDE0055.severity = warning  # Formatting rule
 
 [*.cs]
 # Design rules
-dotnet_diagnostic.CA1014.severity = error     # Mark assemblies with CLSCompliantAttribute
+dotnet_diagnostic.CA1014.severity = none      # Mark assemblies with CLSCompliantAttribute
 dotnet_diagnostic.CA1031.severity = error     # Do not catch general exception types
 dotnet_diagnostic.CA1032.severity = error     # Implement standard exception constructors
 dotnet_diagnostic.CA1046.severity = error     # Do not overload operator equals on reference types
