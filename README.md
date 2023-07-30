@@ -1,4 +1,4 @@
-# Palindrome Number Filtering: Sequential and Parallel Approaches
+# Filtering Palindromes Numbers: Sequential and Parallel Approaches
 
 Beginner level task for practicing `Parallel.ForEach` for CPU-bound operations.
 
