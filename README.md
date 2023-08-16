@@ -1,8 +1,8 @@
 # Filtering Palindromes Numbers: Sequential and Parallel Approaches
 
-Beginner level task for practicing `Parallel.ForEach` for CPU-bound operations.
+Intermediate level task for practicing `Parallel.ForEach` for CPU-bound operations.
 
-Estimated time to complete the task - 1h.
+Estimated time to complete the task - 1.5h.
 
 The task requires .NET 6 SDK installed.
 
